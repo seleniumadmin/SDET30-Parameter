@@ -11,6 +11,9 @@ public class ReadDataFromSystemTest {
 		String URL=System.getProperty("url");
 		System.out.println(URL);
 		
+		System.out.println("pollSCM");
+		
+	
 
 
 }
